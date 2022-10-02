@@ -38,9 +38,9 @@ const items: ItemType[] = [{
 },
 {
     "title": "Telegram",
-    "subtitle": "@heyfahmi | Chat with me instantly ",
+    "subtitle": "@chatwithfahmi | Chat with me instantly ",
     "image": telegram,
-    "link": "https://telegram.me/heyfahmi" //Telegram Pofile 
+    "link": "https://telegram.me/chatwithfahmi" //Telegram Pofile 
 }]
 
 export default items
